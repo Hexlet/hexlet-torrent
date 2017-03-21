@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Скачать курсы Хекслет бесплатно торрент torrent
 
-You can use the [editor on GitHub](https://github.com/Hexlet/hexlet-torrent/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Привет! Мы — команда образовательного проекта [Хекслет](https://ru.hexlet.io/). Мы делаем практические курсы по программированию, с видео-уроками, упражнениями, проектами, стажировкой и большим, общительном сообществом. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Кирилл, Саша, Улугбек, Наталия, Саша (да, у нас два Саши!), Рахим.
 
-### Markdown
+Большинство курсов на нашем сайте — платные. Возможно, вы попали на эту страницу, потому что хотите найти способ скачать их бесплатно. Мы хотим рассказать кое-что: где-нибудь на торрент-сайтах, наверное, можно найти наши видео-курсы, но **это не сильно вам поможет**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Дело в том, что мы обучаем не как другие сайты. Наши курсы завязаны на практику, и упражнения начинаются с первых уроков. Видео без упражнений — это как читать книжку про вождение автомобиля. Все может быть понятно, но без практики смысла нет.
 
-```markdown
-Syntax highlighted code block
+Эти упражнения выполняются на нашем сайте, а наша команда учителей и менторов помогает всем, кто сталкивается с проблемами. Пройти хотя бы один такой курс, со всеми тестами и упражнениями и дополнительной практикой, будет более полезным для развития навыков программирования, чем просмотреть все-все видео.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hexlet/hexlet-torrent/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Так что приглашаем вас попробовать поучиться у нас [полноценно и круто](https://ru.hexlet.io/) :)
