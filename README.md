@@ -14,6 +14,8 @@
 
 - [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
 - [Введение в веб-разработку](https://ru.hexlet.io/courses/intro_to_web_development)
+- [Основы GIT] (https://ru.hexlet.io/courses/intro_to_git)
+- [JS: React] (https://ru.hexlet.io/courses/js-react)
 - [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
 - [Основы HTML, CSS и веб-дизайна](https://ru.hexlet.io/courses/html)
 - и [еще](https://ru.hexlet.io/courses/free) :)
