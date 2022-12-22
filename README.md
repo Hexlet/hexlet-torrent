@@ -45,7 +45,13 @@
 ## Для всех
 - [Жизнь программиста](https://ru.hexlet.io/courses/prog-life)
 - [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+- [Введение в интернет](https://ru.hexlet.io/courses/internet-fundamentals)
 - [Трудоустройство](https://ru.hexlet.io/courses/employment)
 - [Изучение английского языка](https://ru.hexlet.io/courses/learning_english)
+- [Как писать классные тексты](https://ru.hexlet.io/courses/awesome-text)
+
+## Другое
+- [Трудоустройство для разработчиков](https://ru.hexlet.io/courses/employment-for-developers)
+- [Наставник Хекслета](https://ru.hexlet.io/courses/tutor-school-hexlet)
 
 Так что приглашаем вас попробовать поучиться у нас [полноценно и круто](https://ru.hexlet.io/) :)
